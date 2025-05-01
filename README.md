@@ -33,6 +33,9 @@ The vision of this project is to provide digital artists with an immutable and s
 ## Contract Details
 
 ### Contract Address: CCNHWPIUOEBLJRTFFE7LHRMCAYXMGD4GTKKPUCYUJ5XC2H3KEKNSWMNU
+
+![image](https://github.com/user-attachments/assets/b0271021-5d1c-4878-8eab-9489ae1919d5)
+
 The smart contract contains the following core functions:
 1. **register_art**: Allows a creator to register a new art piece with details such as title, description, and creation date.
 2. **verify_art**: Allows the creator to verify the authenticity of their registered artwork, marking it as verified.
